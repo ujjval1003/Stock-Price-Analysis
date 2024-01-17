@@ -25,7 +25,7 @@ This repository contains a Python script for analyzing stock price data and perf
    
 ## File Structure
 
-- `data till 2023-1/`: Directory to store historical stock price CSV files.
+- `data till 2023-1/`: Directory to store historical stock price CSV files. You can download dataset from kaggle(`https://www.kaggle.com/datasets/ujjvalpatel1003/nse-historical-data-1990-2023`).
 - `HISTORICAL.ipynb`: Main notebook for Stock Price Analysis and Visualization with Pandas TA-Lib and Plotly and technical analysis.
 
 ## Visualizations
